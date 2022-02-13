@@ -19,4 +19,6 @@ You can fork it. But before that, please give a star (It's totally free).
 * It helps developers in faster coding, in-turn reduces development cost.
 
 ## Screenshots
-![first](D:/jsonpdb2.png)
+![first](jsonpdb1.png)
+
+![second](jsonpdb2.png)
